@@ -11,7 +11,7 @@ Following Topics Covered
     - Location 
     - Match
     - Link
-    - NativeRouter
+    - Native Router
     - WithRouter
     - Route
 - Integrating Third Party UI library 
@@ -24,4 +24,4 @@ Following Topics Covered
 - Introduction to Android Project Folder
     - App level build.gradle
     - Root level build.gradle
-- Manually likinking libraries.
+- Manually linking libraries.
